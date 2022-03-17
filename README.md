@@ -1,8 +1,4 @@
 
-![image]()
-
-
-
 <h2>🔭 I’m currently working on ...</h2>
 
 <p> <a href="https://rjgeng.github.io/" target="_blank">My profile</a> <br/> "A group of software engineers helping aspiring developers who are either formerly incarcerated or from an economically disadvantaged background."</p>
