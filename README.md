@@ -1,108 +1,28 @@
+![banner](./banner.png)
+## Hello World 🌎
 
-<h2>🔭 I’m currently working on ...</h2>
+- 💻 I'm Rongjun GENG & I am a Full Stack Web Developer. 
+- 🤟 I am a former electrical & electronics (RF) engineer oversea, and newly enable work in USA. 
+- 🔗 Connect with me on <a href="https://www.linkedin.com/in/rjgeng/" target="_blank">LinkedIn</a>
+- 📧 Email me at <a href="rj.geng@gmail.com" target="_blank">rj.geng@gmail.com</a>
 
-<p> <a href="https://rjgeng.github.io/" target="_blank">My profile</a> <br/> "A group of software engineers helping aspiring developers who are either formerly incarcerated or from an economically disadvantaged background."</p>
+## Languages & Tools 🛠
 
-<h2>My Tools...</h2>
-
-### Communication:
-<p>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack badge"/>
-</p>
-
-### Front-End Development:
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react badge"/>
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby badge"/>
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json json badge"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react router badge"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux badge"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components badge"/>
-</p>
-
-### Testing Libraries:
-<p>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress badge"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Cypress badge"/>
-  
-</p>
-
-### Component Libraries:
-<p>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI badge"/>
-</p>
-
-### Package Management:
-<p>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/>
-</p>
-
-### Code Management:
-<p>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git badge"/>
-</p>
-
-### Operating Systems:
-<p>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac os badge"/>
-</p>
-
-### Linters:
-<p>
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier badge"/>
-  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint badge"/>
-</p>
-
-### Backend Development:
-<p>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite badge"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs badge"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql badge"/>
-  <img src="https://knexjs.org/assets/images/knex.png" alt="knex badge" height="35px" width="max-content"/>
-</p>
-
-### Deployment:
-<p>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku badge"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify badge"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
-</p>
-
-## My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjgeng)](https://github.com/anuraghazra/github-readme-stats)
- 
-![Rongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikbahenarjgeng&show_icons=true&theme=dark)
-
-<h2>🌱 I’m currently learning ...</h2>
-<p>
-  GatsbyJS, Career Readiness, Computer Science, Project Design and Project Time Management
-</p>
-
-<h2>👯 I’m looking to collaborate on ...</h2>
-<p>
-  Open Source Projects, Any Projects that Promote the Freedom of Information, Anything related to Artificial Intelligence
-</p>
-
-<h2> How to reach me: </h2>
-<p>
-  Click on one of the badges below!
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/rjgeng/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
-  </a>  
-  
-  <a href="mailto:rj.geng@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
-  </a>
-</p>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png" width="35" height="35"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200420-7825194a-d584-4aad-bc2a-f5d41627c04c.png" width="35" height="35"/></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150207012-3ea66f1b-42fc-4dcc-9174-e63c4516a9f7.png" width="35"/></a>
+<img src="https://user-images.githubusercontent.com/58489217/150203008-a1f41fc6-1d0b-474d-83cb-b970ff6d75e9.jpg" width="35" height="35"/>
+<img src="https://user-images.githubusercontent.com/58489217/150203011-d27c9a3b-2536-486b-b4a0-a01db63dbaed.png" width="35" height="35"/>
+<a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203024-25b57f6a-1874-4a8a-8d62-305d11fbcef2.png" width="35"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203029-c35f75e2-c85a-47b9-b120-456550c63eaf.png" width="35"/></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203048-0f4e998c-a2a2-4c3b-ae55-ae8880ef4829.png" width="35"/></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203056-00bde120-b6b6-4805-b600-46f8ec26097f.png" width="35"/></a>
+<a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203066-7c3e6d18-2a1c-4544-8b42-2a3d0846da71.jpeg" width="35"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203079-28d4f285-709e-4bd1-8508-5b48306886f9.png" width="35"/></a>
+<a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150205127-642031a7-208c-486a-9a22-20abe52a874a.png" width="35"/></a>
+<a href="https://jwt.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150312859-058d4f40-ef8a-49f1-a128-ae63879043df.png" width="35"/></a>
+<a href="https://code.visualstudio.com/brand" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150211373-1c514cce-de53-43fe-84b5-3f18f7c0a631.png" width="35"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150312849-286c6827-f87a-43bd-9f5a-93b6668777cf.png" width="35"/></a>
+<a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203036-69c918c5-4105-4451-9ba6-6b951d727114.png" width="35"/></a>
 
 
