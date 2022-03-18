@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](https://github.com/rjgeng/rjgeng/blob/main/banner.png)
 ## Hello World 🌎
 
 - 💻 I'm Rongjun GENG & I am a Full Stack Web Developer. 
