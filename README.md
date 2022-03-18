@@ -1,7 +1,7 @@
 ![banner](https://github.com/rjgeng/rjgeng/blob/main/banner.png)
 ## Hello World 🌎
 
-- 💻 I'm Rongjun GENG & I am a Full Stack Web Developer. 
+- 💻 I'm Rongjun GENG & try to find a chance to be a Full Stack Web Developer. 
 - 🤟 I am a former electrical & electronics (RF) engineer oversea, and newly enable work in USA. 
 - 🔗 Connect with me on <a href="https://www.linkedin.com/in/rjgeng/" target="_blank">LinkedIn</a>
 - 📧 Email me at <a href="rj.geng@gmail.com" target="_blank">rj.geng@gmail.com</a>
