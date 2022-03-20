@@ -1,28 +1,55 @@
-![banner](https://github.com/rjgeng/rjgeng/blob/main/banner.png)
+<img src="https://user-images.githubusercontent.com/7886233/159105830-45f6da54-4603-4923-a533-9fd90aa35a3e.png" />
+ 
 ## Hello World 🌎
-
-- 💻 I'm Rongjun GENG & try to find a chance to be a Full Stack Web Developer. 
-- 🤟 I am a former electrical & electronics (RF) engineer oversea, and newly enable work in USA. 
-- 🔗 Connect with me on <a href="https://www.linkedin.com/in/rjgeng/" target="_blank">LinkedIn</a>
-- 📧 Email me at <a href="rj.geng@gmail.com" target="_blank">rj.geng@gmail.com</a>
-
+ 
+- 💻    I'm Rongjun GENG & I am a Full Stack Web Developer, although I am a electronics engineer oversea before.
+- 🔭    I’m currently learning on **Machine Learning** now, and try to built some projects using Pandas, TensorFlow, Flask, and Python etc.
+- 🔬    Interested in most fields, ping me if you want to collaborate.
+- 🔗    Connect with me on <a href="https://www.linkedin.com/in/rjgeng/" target="_blank">LinkedIn</a>
+- 📧    Email me at <a href="rj.geng@gmail.com" target="_blank">rj.geng@gmail.com</a>
+ 
 ## Languages & Tools 🛠
+ 
+<a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108099-b615b871-48f6-4afe-abf7-8b5b93a1f41f.png" width="55" height="55"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105836-93677a17-6857-4935-bf48-776fa9a8e157.png" height="60"/>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105838-e694332a-101e-4c71-8c63-e7e86e49c460.png" height="60"/>
+<a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108112-ec6b9da8-1100-417c-8447-b53538572131.png"  width="55" height="55"/></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108315-34de1842-5281-4381-bbca-935546c9de48.png" width="55" height="55"/></a>
+<a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105854-d28004c8-36ea-4ba4-b88e-e40e2d5ea3f3.png" width="55" height="55"/></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105858-1adcba28-57dd-4946-bccf-f0b0ea0aed2c.png"  width="55" height="55"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105866-67306f22-f2f1-41a1-b362-c4fcb2091cc1.png"  width="55" height="55"/></a>
+<a href="https://university.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105868-d5e54363-3aa5-4831-991b-bbba470a7b52.png" height="60"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105873-f8e55158-6cd1-4a76-94ed-1c339839ad89.png" width="60" height="60"/></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105880-bc29ffc4-0323-4167-839d-97c046e5f60f.png" height="60"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159130782-3f7e4131-d834-403a-a4e0-4462ebec58c3.png"   width="55" height="55"/></a>
+<a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105886-114e32b4-199d-493b-b55f-66fdbe694ff2.png" width="60" height="55"/></a>
+<a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105887-865cf05f-b81d-427e-93e6-98946b51d71b.png" height="60"/></a>
+<a href="https://jwt.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105892-cd6b08a1-2b63-4f17-9e07-9debe005ac3a.png" height="60"/></a>
+<a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
+<a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="60"/></a>
+<a href="https://beautifuljekyll.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159178273-15525249-0255-40fd-90d1-3ac6264701f2.png" width="55" height="55"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108792-a12ab940-dc4a-4643-9dc4-736619bd68a3.png" width="55" height="55"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106017-7f5d5c2e-7f33-41d4-992d-a9d1ac00214c.png" width="55" height="55"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="55"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/> </a>
+<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106021-d762858f-04a8-487e-9703-72b9eb00e058.png" height="65"/></a>
+<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106024-cbdbe521-bf6e-484f-9a69-f3bc719883eb.png" height="60"/></a>
+<a href="https://kb.ettus.com/RFNoC_(UHD_3.0)" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159130269-ff6e26a5-3a7a-4d31-a635-09c0a6bdc982.png" height="60"/></a>
+<a href="https://www.xilinx.com/developer/products/vitis.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159129381-41cefc6c-40f8-45e9-bc66-90d9f8b02987.png"  width="50" height="55"/></a>
+<a href="https://aws.amazon.com/freertos/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159129719-d335d4a9-f42b-4bb3-9b58-3e52bbb6d3d2.png"  width="50" height="55"/></a>
+<a href="https://code.visualstudio.com/brand" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105877-f44b6d41-f878-4bb2-beff-d566980bbeb0.png"  width="50" height="50"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7886233/159177980-71eb16de-501b-4e5b-a09e-2e0de9082639.png" alt="linux" width="55" height="55"/> </a>
 
-<a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png" width="35" height="35"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200420-7825194a-d584-4aad-bc2a-f5d41627c04c.png" width="35" height="35"/></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150207012-3ea66f1b-42fc-4dcc-9174-e63c4516a9f7.png" width="35"/></a>
-<img src="https://user-images.githubusercontent.com/58489217/150203008-a1f41fc6-1d0b-474d-83cb-b970ff6d75e9.jpg" width="35" height="35"/>
-<img src="https://user-images.githubusercontent.com/58489217/150203011-d27c9a3b-2536-486b-b4a0-a01db63dbaed.png" width="35" height="35"/>
-<a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203024-25b57f6a-1874-4a8a-8d62-305d11fbcef2.png" width="35"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203029-c35f75e2-c85a-47b9-b120-456550c63eaf.png" width="35"/></a>
-<a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203048-0f4e998c-a2a2-4c3b-ae55-ae8880ef4829.png" width="35"/></a>
-<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203056-00bde120-b6b6-4805-b600-46f8ec26097f.png" width="35"/></a>
-<a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203066-7c3e6d18-2a1c-4544-8b42-2a3d0846da71.jpeg" width="35"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203079-28d4f285-709e-4bd1-8508-5b48306886f9.png" width="35"/></a>
-<a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150205127-642031a7-208c-486a-9a22-20abe52a874a.png" width="35"/></a>
-<a href="https://jwt.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150312859-058d4f40-ef8a-49f1-a128-ae63879043df.png" width="35"/></a>
-<a href="https://code.visualstudio.com/brand" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150211373-1c514cce-de53-43fe-84b5-3f18f7c0a631.png" width="35"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150312849-286c6827-f87a-43bd-9f5a-93b6668777cf.png" width="35"/></a>
-<a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203036-69c918c5-4105-4451-9ba6-6b951d727114.png" width="35"/></a>
 
-
+<!-- <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/> </a>
+-->
+ 
