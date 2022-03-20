@@ -2,8 +2,8 @@
  
 ## Hello World 🌎
  
-- 💻    I'm Rongjun GENG & I am a Full Stack Web Developer, although I am a electronics engineer oversea before.
-- 🔭    I’m currently learning on **Machine Learning** now, and try to built some projects using Pandas, TensorFlow, Flask, and Python etc.
+- 💻    I'm Rongjun GENG, a Full Stack Web Developer, although I was a electronics engineer oversea before.
+- 🔭    Currently learning on **Machine Learning** now, and try to built some projects using Pandas, TensorFlow, Flask, and Python etc.
 - 🔬    Interested in most fields, ping me if you want to collaborate.
 - 🔗    Connect with me on <a href="https://www.linkedin.com/in/rjgeng/" target="_blank">LinkedIn</a>
 - 📧    Email me at <a href="rj.geng@gmail.com" target="_blank">rj.geng@gmail.com</a>
@@ -48,8 +48,6 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7886233/159177980-71eb16de-501b-4e5b-a09e-2e0de9082639.png" alt="linux" width="55" height="55"/> </a>
 
-
 <!-- <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/> </a>
 -->
- 
